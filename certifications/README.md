@@ -22,7 +22,3 @@ certifications/
     ├── aws-academy-cloud-architecting.png
     └── aws-academy-cloud-foundations.png
 ```
-
-## Naming convention
-
-Files follow `YYYY-MM-DD-issuer-short-title.ext` where a date is known, or `issuer-short-title.ext` where it isn't. Update the placeholder dates above once confirmed, and rename the corresponding files to match for consistency.
